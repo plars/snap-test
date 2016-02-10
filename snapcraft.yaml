@@ -1,0 +1,10 @@
+name: test
+summary: test
+description: test package
+version: 0.1
+icon: icon.png
+
+parts:
+    test:
+        plugin: nil
+
